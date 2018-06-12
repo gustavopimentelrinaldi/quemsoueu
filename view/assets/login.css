@@ -53,7 +53,7 @@ table {
 /*--start-body--*/
 
 body {
-    background: url(../images/bg.jpg)no-repeat;
+    background: url(images/bg.jpg)no-repeat;
     position: relative;
     font-family: 'Catamaran', sans-serif;
     background-size: cover;
@@ -86,6 +86,7 @@ h1.title-head {
 #login{
 	margin: 0 auto;
 	width: 50%;
+    padding-bottom: 40px;
 }
 
 

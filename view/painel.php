@@ -22,20 +22,7 @@
 		<div class="inner-w3-agile">
 			<div class="left-section">
 				<?php echo '<img src="data:image/jpeg;base64,' . base64_encode($_SESSION['user_imagem']) . '" />';?>
-				<div class="grids">
-					<div class="g1">
-						<h6>
-							<span>448</span>Tweets</h6>
-					</div>
-					<div class="g2">
-						<h6>
-							<span>600</span>Followers</h6>
-					</div>
-					<div class="g3">
-						<h6>
-							<span>218</span>Following</h6>
-					</div>
-				</div>
+				
 			</div>
 			<div class="right-w3-agile">
 				<div class="right-info">

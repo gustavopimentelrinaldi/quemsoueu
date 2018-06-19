@@ -115,19 +115,12 @@ p.para-wthree a:hover {
 .right-w3-agile {
     flex-basis: 50%;
     -webkit-flex-basis: 50%;
-    background: rgba(255, 255, 255, 0.07);
-    -webkit-box-shadow: 0 6px 12px 0 rgb(37, 37, 37);
-    -moz-box-shadow: 0 6px 12px 0 rgb(37, 37, 37);
-    box-shadow: 0 6px 43px 0 rgba(0, 0, 0, 0.4);
 }
 
 .right-w3-agile {
     flex-basis: 50%;
     -webkit-flex-basis: 50%;
     background: #ffffff;
-    -webkit-box-shadow: 0 6px 12px 0 rgb(37, 37, 37);
-    -moz-box-shadow: 0 6px 12px 0 rgb(37, 37, 37);
-    box-shadow: 0 6px 43px 0 rgba(0, 0, 0, 0.4);
 }
 
 .right-info {

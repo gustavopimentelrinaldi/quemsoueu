@@ -1,3 +1,5 @@
 # quemsoueu
 
-**Projeto acadêmico**
+**Academic project**
+
+A simple personal profile informations
